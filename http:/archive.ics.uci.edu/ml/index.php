@@ -16,14 +16,14 @@ Latest News:
 03-24-2008:	New data sets have been added!
 06-25-2007:	Two new data sets have been added: UJI Pen Characters, MAGIC Gamma Telescope
 
-Featured Data Set:  Australian Sign Language signs (High Quality)
+Featured Data Set:  YearPredictionMSD
 
-Task: Classification
-Data Type: Multivariate, Time-Series
-# Attributes: 22
-# Instances: 2565
+Task: Regression
+Data Type: Multivariate
+# Attributes: 90
+# Instances: 515345
 
-This data consists of sample of Auslan (Australian Sign Language) signs. 27 examples of each of 95 Auslan signs were captured from a native signer using high-quality position trackers
+Prediction of the release year of a song from audio features. Songs are mostly western, commercial tracks ranging from 1922 to 2011, with a peak in the year 2000s.
 Newest Data Sets:
 02-24-2020:	
  	Bar Crawl: Detecting Heavy Drinking
@@ -37,4 +37,40 @@ Newest Data Sets:
  	QSAR fish bioconcentration factor (BCF)
 10-16-2019:	
  	Kitsune Network Attack Dataset
-10
+10-11-2019:	
+ 	QSAR Bioconcentration classes dataset
+10-06-2019:	
+ 	WISDM Smartphone and Smartwatch Activity and Biometrics Dataset
+10-01-2019:	
+ 	QSAR oral toxicity
+10-01-2019:	
+ 	QSAR androgen receptor
+09-30-2019:	
+ 	Hepatitis C Virus (HCV) for Egyptian patients
+09-23-2019:	
+ 	QSAR fish toxicity
+Most Popular Data Sets (hits since 2007):
+3364541:	
+ 	Iris
+1847537:	
+ 	Adult
+1426131:	
+ 	Wine
+1266796:	
+ 	Breast Cancer Wisconsin (Diagnostic)
+1240916:	
+ 	Heart Disease
+1237231:	
+ 	Wine Quality
+1211016:	
+ 	Bank Marketing
+1192615:	
+ 	Car Evaluation
+992775:	
+ 	Human Activity Recognition Using Smartphones
+941082:	
+ 	Abalone
+888677:	
+ 	Forest Fires
+676916:	
+ 	Student Performance
