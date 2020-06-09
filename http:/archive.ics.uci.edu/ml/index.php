@@ -16,14 +16,11 @@ Latest News:
 03-24-2008:	New data sets have been added!
 06-25-2007:	Two new data sets have been added: UJI Pen Characters, MAGIC Gamma Telescope
 
-Featured Data Set:  YearPredictionMSD
+Featured Data Set:  Mobile Robots
 
-Task: Regression
-Data Type: Multivariate
-# Attributes: 90
-# Instances: 515345
+Data Type: Domain-Theory
 
-Prediction of the release year of a song from audio features. Songs are mostly western, commercial tracks ranging from 1922 to 2011, with a peak in the year 2000s.
+Learning concepts from sensor data of a mobile robot; set of data sets
 Newest Data Sets:
 02-24-2020:	
  	Bar Crawl: Detecting Heavy Drinking
@@ -50,27 +47,27 @@ Newest Data Sets:
 09-23-2019:	
  	QSAR fish toxicity
 Most Popular Data Sets (hits since 2007):
-3364541:	
+3363991:	
  	Iris
-1847537:	
+1847268:	
  	Adult
-1426131:	
+1425883:	
  	Wine
-1266796:	
+1266503:	
  	Breast Cancer Wisconsin (Diagnostic)
-1240916:	
+1240677:	
  	Heart Disease
-1237231:	
+1237000:	
  	Wine Quality
-1211016:	
+1210778:	
  	Bank Marketing
-1192615:	
+1192452:	
  	Car Evaluation
-992775:	
+992651:	
  	Human Activity Recognition Using Smartphones
-941082:	
+940964:	
  	Abalone
-888677:	
+888590:	
  	Forest Fires
-676916:	
+676707:	
  	Student Performance
