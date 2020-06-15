@@ -1,4 +1,4 @@
-##Creating a Directory
+ ##Creating a Directory
 > if (!file.exists("data")) {
 +   dir.create("./data")
 + }
@@ -57,3 +57,7 @@ downloaded 19.7 MB
 png 
   3 
 > dev.off()
+windows 
+      2 
+> 
+
